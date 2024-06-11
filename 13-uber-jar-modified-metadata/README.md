@@ -1,3 +1,8 @@
+# Instructions
+Execute _mavenInstallScrypt.sh_ before running:
+```
+mvn clean install
+```
 # Ground truth
 ## Direct dependencies and associated CVEs
 | Dependency | CVE |
