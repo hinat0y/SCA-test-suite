@@ -4,7 +4,7 @@ Execute _mavenInstallScrypt.sh_ before running:
 mvn clean install
 ```
 # Ground truth
-## Direct dependencies and associated CVEs (including from transitive dependencies)
+## Direct dependencies and associated CVEs
 | Dependency | CVE |
 | --- | --- |
 | clojure-1.11.1 | CVE-2024-22871 |
