@@ -1,5 +1,5 @@
 # Instructions
-Run mavenInstallScrypt.sh before analyzing.
+Run _mavenInstallScrypt.sh_ before analyzing.
 # Ground truth
 ## Direct dependencies and associated CVEs
 | Dependency | CVE |
