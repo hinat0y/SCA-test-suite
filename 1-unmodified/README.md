@@ -1,5 +1,5 @@
 # Ground truth
-## Direct dependencies and associated CVEs (including coming from transitive dependencies)
+## Direct dependencies and associated CVEs (including from transitive dependencies)
 | Dependency | CVE |
 | --- | --- |
 | clojure-1.11.1 | CVE-2024-22871 |
