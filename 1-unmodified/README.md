@@ -31,7 +31,7 @@
 | spring-web-6.1.3 | CVE-2024-22262, CVE-2024-22243 |
 | spring-webmvc-6.0.10 | CVE-2023-34053 |
 | testng-7.4.0.jar | CVE-2022-4065 |
-* CVEs coming from transitive dependencies in _cursive_
+* CVEs coming from transitive dependencies are in _cursive_
 
 ## Direct and transitive dependencies
 | Direct | Transitive |
