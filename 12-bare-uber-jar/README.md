@@ -1,3 +1,4 @@
+_removingTimestampsFromJar.sh_ is a script for updating timestamps within a binary (jar) file.
 # Ground truth
 ## Direct dependencies and associated CVEs
 | Dependency | CVE |
