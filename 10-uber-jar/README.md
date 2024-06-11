@@ -1,3 +1,4 @@
+_pom_build_jar-with-dependencies.xml_ details how the Uber-JAR with dependencies was created.
 # Ground truth
 ## Direct dependencies and associated CVEs
 | Dependency | CVE |
