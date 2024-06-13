@@ -1,3 +1,8 @@
+# Instructions
+To compile, run 
+```
+mvn clean install
+```
 # Ground truth
 ## Direct dependencies and associated CVEs (including from transitive dependencies)
 | Dependency | CVE |
