@@ -68,3 +68,4 @@ mvn clean install
 | spring-context-5.3.12 | spring-aop-5.3.12, spring-expression-5.3.12 |
 | spring-core-6.0.3 | spring-jcl-6.0.3 |
 | spring-web-6.1.3 | micrometer-observation-1.12.2, micrometer-commons-1.12.2 |
+| testng-7.4.0.jar | |
